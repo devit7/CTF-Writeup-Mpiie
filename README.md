@@ -1,7 +1,7 @@
 
 # Lomba CTF Writeup
 
-Berikut adalah tabel writeup lomba CTF yang tersedia di GitHub.
+Berikut adalah tabel writeup lomba CTF yang saya ikuti dan tersedia di GitHub saya.
 
 | Nama Lomba | Capaian | Writeup |
 |------------|---------|---------|
