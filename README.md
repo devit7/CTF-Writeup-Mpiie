@@ -11,6 +11,7 @@ Berikut adalah tabel writeup lomba CTF yang saya ikuti dan tersedia di GitHub sa
 | DesconstruCT.F 2023 | 112 from 322 | [DesconstruCT.F 2023 Writeup](https://github.com/devit7/CTF-Writeup-Mpiie/tree/main/DesconstruCT.F%202023) |
 | Hackon CTF 2023 | 57 from 286 | [Hackon CTF 2023 Writeup](https://github.com/devit7/CTF-Writeup-Mpiie/tree/main/Hackon%20CTF%202023) |
 | Gemastik 2023 | - | [Gemastik 2023 Writeup](https://github.com/devit7/CTF-Writeup-Mpiie/tree/main/gemastik2023) |
+| Hology6 CTF 2023 | - | [Hology6 2023 Writeup](https://github.com/devit7/CTF-Writeup-Mpiie/tree/main/Hology6%20CTF%202023) |
 
 Silakan klik pada tautan writeup untuk mengakses repository GitHub yang sesuai.
 
